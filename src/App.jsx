@@ -55,7 +55,7 @@ export default function PhDProfile() {
       {/* HERO (NO GLASS) */}
       <section className="h-screen snap-start flex flex-col justify-center items-center text-center px-6">
         <motion.img
-          src="/profile.jpg"
+          src="/profile.png"
           initial={{ opacity: 0, scale: 0.8 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.8 }}
