@@ -168,17 +168,22 @@ Driven by curiosity and a passion for innovation, I am continually exploring new
             {
               title: "Modeling Quantum Federated Autoencoder for Anomaly Detection",
               venue: "ICOIN 2026",
-              link: "#"
+              link: "https://ieeexplore.ieee.org/abstract/document/11480492"
             },
             {
               title: "In-network Attack Detection with Federated Deep Learning",
               venue: "ICEI 2025",
-              link: "#"
+              link: "https://arxiv.org/abs/2603.21596"
             },
             {
               title: "Towards Adapting Federated & Quantum Machine Learning for Network Intrusion Detection: A Survey",
               venue: "arXiv",
               link: "https://arxiv.org/abs/2509.21389"
+            },
+			{
+              title: "Q-AGNN: Quantum-Enhanced Attentive Graph Neural Network for Intrusion Detection",
+              venue: "arXiv",
+              link: "https://arxiv.org/abs/2603.22365"
             }
           ].map((p, i) => (
             <motion.div
