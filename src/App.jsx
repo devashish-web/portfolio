@@ -73,9 +73,9 @@ export default function PhDProfile() {
         {/* STATS */}
         <div className="grid grid-cols-3 gap-10 mt-12">
           {[
-            { n: "2", l: "Publications" },
-            { n: "4", l: "Citations" },
-            { n: "2", l: "H-Index" }
+            { n: "4", l: "Publications" },
+            { n: "8", l: "Citations" },
+            { n: "1", l: "H-Index" }
           ].map((s, i) => (
             <motion.div
               key={i}
